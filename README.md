@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @LeonardoScalzi
-- 👀 I’m interested in football data
-- 🌱 I’m currently learning to read code
-- 💞️ I’m looking to collaborate on sorare
+- 👀 I’m interested in football data analysis
 - 📫 How to reach me: discord --> LeonardoSorare#1190 
 
 <!---
